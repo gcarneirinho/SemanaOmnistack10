@@ -1,5 +1,5 @@
 # SemanaOmnistack10 DevRadar
-<h1>Fullstack App with MongoDB, NodeJS, ReactJS and React Native</h1>
+<h1>Fullstack App using MongoDB, NodeJS, ReactJS and React Native</h1>
 
 
 ## Preview
